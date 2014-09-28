@@ -42,6 +42,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -129,8 +130,8 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lu
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
+  price: "150"
+  priceCurrency: "INR"
   ticketsNumber: "150"
   ribbon: "-5%"
   buyButtonLink: "http://dfua.ticketforevent.com/"
@@ -140,8 +141,8 @@ ticketsOffers:
   validThrough: "2014-09-30T23:59"
  -
   name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
+  price: "200"
+  priceCurrency: "INR"
   ticketsNumber: "100"
   ribbon: "-20%"
   featured: true
@@ -153,8 +154,8 @@ ticketsOffers:
   disabled: true
  -
   name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
+  price: "100"
+  priceCurrency: "INR"
   ticketsNumber: "50"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
