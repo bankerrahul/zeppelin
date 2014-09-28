@@ -42,9 +42,9 @@ navigationLinks:
  - {permalink: "/hackathon/", text: "Hackathon"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/1vofhZI", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/1vofhZI", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -53,8 +53,8 @@ eventDate: " November 22, 2014"
 typeoutTextValues: '"", "Season", "Baroda"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "http://bit.ly/1vofhZI", text: "Become a speaker"}
+ - {permalink: "/#tickets", text: "Registrations"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
