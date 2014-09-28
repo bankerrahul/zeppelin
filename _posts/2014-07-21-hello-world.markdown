@@ -7,7 +7,7 @@ isStaticPost: false
 
 We're very excited - not just because of the inordinate amount of caffeine based products consumed - 
 but also because our team are putting together 
-the final missing parts to the biggest Google related event in Ukraine - [GDG DevFest 2014](http://gdgbaroda.com/devfes). 
+the final missing parts to the biggest Google related event in Ukraine - [GDG DevFest 2014](http://gdgbaroda.com/devfest). 
 
 This year event will take place for the first time in the cultural capital of Gujarat - Baroda. Being a unique city in Gujarat, Baroda is among top 10 cities to visit in 2014 according to a travel group  and is among top 10 cities for spending weekends in Gujarat according to Lonely Planet. So take your time to spend weeked in last hidden gem in company of experts and technical geeks.
 
