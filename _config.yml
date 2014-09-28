@@ -9,8 +9,8 @@ title: "GDG DevFest Season 2014"
 email: "bankerrahul@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsTrackingId: "UA-12606786-28"
+googleAnalyticsSiteUrl: "devfest.gdgbaroda.com"
 
 # Organizer Info
 organizerName: "GDG Baroda"
@@ -18,7 +18,7 @@ organizerAlternateName: "Google Developer Group Baroda"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "bankerrahul@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://gdgbaroda.com/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, Baroda, Vadodara, Google Devfest Baroda"
